@@ -5,12 +5,23 @@
         <description>Sidefy Trial release feed (GitHub Releases)</description>
         <language>en</language>
         <item>
+            <title>2026.6.24.1</title>
+            <pubDate>Wed, 24 Jun 2026 23:46:34 +0800</pubDate>
+            <sparkle:version>11346</sparkle:version>
+            <sparkle:shortVersionString>2026.6.24.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/sidefy-team/sidefy-trial/releases/download/trial-2026.6.24.1/Sidefy%20Trial%202026.6.24.1.zip" length="12867439" type="application/octet-stream" sparkle:edSignature="e8w6fPNeZ8hCVnb6pj5gmDzkx9nMEh5oJ4j7Bypi5pMrRinEBcfilNzqxoDJ1205tSmYrOAPA1YEgtXrtl65BA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/sidefy-team/sidefy-trial/releases/download/trial-2026.6.24.1/Sidefy%20Trial11346-11345.delta" sparkle:deltaFrom="11345" length="1636898" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jU6RTHoI5PlGhrtwjR931prd3kP6Ji0VqB62twcMG3yOZLMhy99EU4F0uhTDsFa5UVzNN0GIQWtXbwR+T1ukBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>2026.6.24</title>
             <pubDate>Wed, 24 Jun 2026 19:06:37 +0800</pubDate>
             <sparkle:version>11345</sparkle:version>
             <sparkle:shortVersionString>2026.6.24</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/sidefy-team/sidefy-trial/releases/download/trial-2026.6.24/Sidefy%20Trial%202026.6.24.zip" length="13061299" type="application/octet-stream" sparkle:edSignature="6cjennALjK4FKuTY2fwUH/rsu4ceg3IUX+CocWHUFq2KfQAVhx1We7yAfdS4UzhyytpQjPg+Gh2D2uV/Waj8Ag=="/>
+            <enclosure url="https://github.com/sidefy-team/sidefy-trial/releases/download/trial-2026.6.24.1/Sidefy%20Trial%202026.6.24.zip" length="13061299" type="application/octet-stream" sparkle:edSignature="6cjennALjK4FKuTY2fwUH/rsu4ceg3IUX+CocWHUFq2KfQAVhx1We7yAfdS4UzhyytpQjPg+Gh2D2uV/Waj8Ag=="/>
         </item>
     </channel>
 </rss>
