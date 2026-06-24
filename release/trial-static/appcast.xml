@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>Sidefy Trial</title>
+        <description>Sidefy Trial release feed (GitHub Releases)</description>
+        <language>en</language>
+        <item>
+            <title>2026.6.24</title>
+            <pubDate>Wed, 24 Jun 2026 19:06:37 +0800</pubDate>
+            <sparkle:version>11345</sparkle:version>
+            <sparkle:shortVersionString>2026.6.24</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/sidefy-team/sidefy-trial/releases/download/trial-2026.6.24/Sidefy%20Trial%202026.6.24.zip" length="13057294" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
