@@ -22,14 +22,18 @@ Sidefy Trial is a feature-limited edition. The full version is available on the 
 
 | Feature | Trial | Full (App Store) |
 |--------|-------|------------------|
-| Rules | Up to 5 | Unlimited |
-| RSS feeds | Up to 5 | Unlimited |
+| Rules | Up to 5; SideScript import & export not available | Unlimited; available |
+| Rule templates | Not available | Available |
+| RSS feeds | Up to 5; OPML import & export not available | Unlimited; available |
 | GitHub repos | Up to 5 | Unlimited |
-| Plugins | Up to 5 | Unlimited |
-| Import / export | Not available | Available |
-| MCP | Not available | Available |
+| Custom / online plugins | Up to 5 combined (built-in plugins excluded) | Unlimited |
+| Advanced settings | Not available | Available |
+| AI translation | Not available | Available |
+| SideScript advanced editing | Not available | Available (requires experimental features) |
+| MCP / local server | Not available | Available (requires experimental features) |
 | iCloud sync | Not available | Available |
 | Experimental features | Not available | Available |
+| Updates | Sparkle (GitHub distribution) | App Store updates |
 
 ## Repository contents
 
