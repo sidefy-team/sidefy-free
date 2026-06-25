@@ -1,6 +1,6 @@
 # Sidefy Trial
 
-Official download and update feed for **Sidefy Trial** — the free edition of [Sidefy](https://apps.apple.com/app/id6751482006) for macOS.
+Official download and update feed for **Sidefy Trial** — the free edition of Sidefy for macOS.
 
 This repository hosts release artifacts (ZIP, DMG) and the Sparkle appcast. It is **not** the application source code.
 
@@ -18,7 +18,7 @@ Sidefy Trial checks for updates automatically via Sparkle.
 
 ## Trial vs full version
 
-Sidefy Trial is a feature-limited edition. The full version is available on the [Mac App Store](https://apps.apple.com/app/id6751482006).
+Sidefy Trial is a feature-limited edition. The full version is available on the Mac App Store.
 
 | Feature | Trial | Full (App Store) |
 |--------|-------|------------------|
