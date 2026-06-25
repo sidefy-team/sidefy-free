@@ -5,12 +5,25 @@
         <description>Sidefy Trial release feed (GitHub Releases)</description>
         <language>en</language>
         <item>
+            <title>2026.6.24.3</title>
+            <pubDate>Thu, 25 Jun 2026 10:33:46 +0800</pubDate>
+            <sparkle:version>11348</sparkle:version>
+            <sparkle:shortVersionString>2026.6.24.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/sidefy-team/sidefy-trial/releases/download/trial-2026.6.24.3/Sidefy.Trial.2026.6.24.3.zip" length="12921125" type="application/octet-stream" sparkle:edSignature="Xl+JquKcPPuI/xWpzu/MY4D/1OU4xtOGnp8QnM8rNDQ88hv3FTPZbqYrIyHLQQeBoI5jydqBXapE0ZBlMqHGBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/sidefy-team/sidefy-trial/releases/download/trial-2026.6.24.3/Sidefy.Trial11348-11347.delta" sparkle:deltaFrom="11347" length="1326150" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NHuRh191in3KwEeAjy24c5oX8F7rqYwGQBGQ46QB17+MLE0DVhSCxTrPKpAqsfrnErZzwhvfJ8zo+HxX2SsyAQ=="/>
+                <enclosure url="https://github.com/sidefy-team/sidefy-trial/releases/download/trial-2026.6.24.3/Sidefy.Trial11348-11346.delta" sparkle:deltaFrom="11346" length="1547974" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DAOGSzFRLSmxVnNnn7sdNI27wglUqWfbhZl6LxyzfPEQULq+TQJkhlxNrpXbpu5CTiNHrSqY3j+GWVkxX687Bw=="/>
+                <enclosure url="https://github.com/sidefy-team/sidefy-trial/releases/download/trial-2026.6.24.3/Sidefy.Trial11348-11345.delta" sparkle:deltaFrom="11345" length="1759586" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="d8LQB5ZYwxa2a2toEwD4KkGxx/CtGqNm58QeHsqXfF29PErqNpvvX6IXb1kw/h3GO5FI47vlggD3OKKpEHRoCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>2026.6.24.2</title>
             <pubDate>Thu, 25 Jun 2026 09:12:56 +0800</pubDate>
             <sparkle:version>11347</sparkle:version>
             <sparkle:shortVersionString>2026.6.24.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/sidefy-team/sidefy-trial/releases/download/trial-2026.6.24.2/Sidefy.Trial.2026.6.24.2.zip" length="12897746" type="application/octet-stream" sparkle:edSignature="/MQYEXf5+4jPU3WgkqUL4Vk2pRfK+S9EFj3KmYS/Az+2eJPELk++C2qtuWbjivp/Lxj4NQfysdW63FFsNph6DQ=="/>
+            <enclosure url="https://github.com/sidefy-team/sidefy-trial/releases/download/trial-2026.6.24.3/Sidefy.Trial.2026.6.24.2.zip" length="12897746" type="application/octet-stream" sparkle:edSignature="/MQYEXf5+4jPU3WgkqUL4Vk2pRfK+S9EFj3KmYS/Az+2eJPELk++C2qtuWbjivp/Lxj4NQfysdW63FFsNph6DQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/sidefy-team/sidefy-trial/releases/download/trial-2026.6.24.2/Sidefy.Trial11347-11346.delta" sparkle:deltaFrom="11346" length="1410210" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VBgb+K1CpIBEqHTjE7nB1m+zhFY13y3z5Hk+lU7IsSBlmRZINMOCJ9fVLiVznGfpW002jLywkCURIF1XT3eFBw=="/>
                 <enclosure url="https://github.com/sidefy-team/sidefy-trial/releases/download/trial-2026.6.24.2/Sidefy.Trial11347-11345.delta" sparkle:deltaFrom="11345" length="1697982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EHQnSklvYKR+Pd8AUDUKS0ub5f501Sgj+1M7bwTIIbZqXD9JoXW7Zy305WtW88xUaVOIgwOoiwoIHpAqrMxGDg=="/>
@@ -22,7 +35,7 @@
             <sparkle:version>11346</sparkle:version>
             <sparkle:shortVersionString>2026.6.24.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/sidefy-team/sidefy-trial/releases/download/trial-2026.6.24.2/Sidefy%20Trial%202026.6.24.1.zip" length="12867439" type="application/octet-stream" sparkle:edSignature="e8w6fPNeZ8hCVnb6pj5gmDzkx9nMEh5oJ4j7Bypi5pMrRinEBcfilNzqxoDJ1205tSmYrOAPA1YEgtXrtl65BA=="/>
+            <enclosure url="https://github.com/sidefy-team/sidefy-trial/releases/download/trial-2026.6.24.3/Sidefy.Trial%202026.6.24.1.zip" length="12867439" type="application/octet-stream" sparkle:edSignature="e8w6fPNeZ8hCVnb6pj5gmDzkx9nMEh5oJ4j7Bypi5pMrRinEBcfilNzqxoDJ1205tSmYrOAPA1YEgtXrtl65BA=="/>
         </item>
     </channel>
 </rss>
