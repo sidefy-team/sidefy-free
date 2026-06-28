@@ -4,6 +4,8 @@ Official download and update feed for **Sidefy Trial** — the free edition of S
 
 This repository hosts release artifacts (ZIP, DMG) and the Sparkle appcast. It is **not** the application source code.
 
+https://github.com/user-attachments/assets/2678f9c7-f6d9-46bc-a7bf-6a18ae06054e
+
 ## Download
 
 Get the latest build from [GitHub Releases](https://github.com/sidefy-team/sidefy-trial/releases).
