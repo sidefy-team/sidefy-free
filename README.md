@@ -1,6 +1,6 @@
-# Sidefy Trial
+# Sidefy Free Edition
 
-Official download and update feed for **Sidefy Trial** — the free edition of Sidefy for macOS.
+Official download and update feed for the **free edition** of [Sidefy](https://apps.apple.com/app/id6751482006) for macOS — feature-limited, not time-limited.
 
 This repository hosts release artifacts (ZIP, DMG) and the Sparkle appcast. It is **not** the application source code.
 
@@ -14,16 +14,16 @@ Requirements: **macOS 14.0 or later**.
 
 ## Updates
 
-Sidefy Trial checks for updates automatically via Sparkle.
+The free edition checks for updates automatically via Sparkle.
 
 - Feed URL: `https://raw.githubusercontent.com/sidefy-team/sidefy-trial/main/release/trial-static/appcast.xml`
 
-## Trial vs full version
+## Free edition vs full version
 
-Sidefy Trial is a feature-limited edition. The full version is available on the Mac App Store.
+The free edition is feature-limited. The full version is available on the [Mac App Store](https://apps.apple.com/app/id6751482006).
 
-| Feature | Trial | Full (App Store) |
-|--------|-------|------------------|
+| Feature | Free | Full (App Store) |
+|--------|------|------------------|
 | Rules | Up to 5; SideScript import & export not available | Unlimited; available |
 | Rule templates | Not available | Available |
 | RSS feeds | Up to 5; OPML import & export not available | Unlimited; available |
@@ -52,9 +52,9 @@ Release packages are built from the private Sidefy source repository and publish
 
 There is **no open-source license** for the application, its source code, or release binaries in this repository. Do not treat this repo as granting rights to copy, modify, redistribute, or sublicense the software beyond what ØYNN expressly allows.
 
-### Sidefy Trial (this repository)
+### Free edition (this repository)
 
-Use of Sidefy Trial downloaded from GitHub is governed by **ØYNN’s proprietary end-user terms**: you may install and run the official trial build and receive updates through the Sparkle feed provided here. Redistribution, repackaging, or commercial use of trial builds without permission is not allowed.
+Use of the free edition downloaded from GitHub is governed by **ØYNN’s proprietary end-user terms**: you may install and run the official free build and receive updates through the Sparkle feed provided here. Redistribution, repackaging, or commercial use of free-edition builds without permission is not allowed.
 
 ### Sidefy full version (Mac App Store)
 
@@ -71,10 +71,10 @@ Libraries and assets bundled inside the app remain subject to their respective t
 
 ## Support
 
-For bugs and feedback about Sidefy Trial, open an issue in this repository.
+For bugs and feedback about the free edition, open an issue in this repository.
 
 For the full App Store product, use App Store support channels or the developer’s official contact methods.
 
 ---
 
-**Sidefy** and **Sidefy Trial** are products of ØYNN. This repository is for official trial distribution only.
+**Sidefy** is a product of ØYNN. This repository is for official free-edition distribution only.
