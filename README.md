@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/2678f9c7-f6d9-46bc-a7bf-6a18ae06054e
 
 ## Download
 
-Get the latest build from [GitHub Releases](https://github.com/sidefy-team/sidefy-trial/releases).
+Get the latest build from [GitHub Releases](https://github.com/sidefy-team/sidefy-free/releases).
 
 Requirements: **macOS 14.0 or later**.
 
@@ -16,7 +16,7 @@ Requirements: **macOS 14.0 or later**.
 
 The free edition checks for updates automatically via Sparkle.
 
-- Feed URL: `https://raw.githubusercontent.com/sidefy-team/sidefy-trial/main/release/trial-static/appcast.xml`
+- Feed URL: `https://raw.githubusercontent.com/sidefy-team/sidefy-free/main/release/free-static/appcast.xml`
 
 ## Free edition vs full version
 
@@ -41,7 +41,7 @@ The free edition is feature-limited. The full version is available on the [Mac A
 
 | Path | Purpose |
 |------|---------|
-| `release/trial-static/appcast.xml` | Sparkle update metadata |
+| `release/free-static/appcast.xml` | Sparkle update metadata |
 | GitHub Releases | Signed, notarized ZIP and DMG builds |
 
 Release packages are built from the private Sidefy source repository and published here for distribution only.
